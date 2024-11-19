@@ -11,3 +11,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
+Learning hardhat is not that hard also ... You can check blacksnowmartin profiles.
+
+## Blacksnow Martin 2024
