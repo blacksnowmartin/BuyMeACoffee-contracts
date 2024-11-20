@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.27;
 
+// Deployed it to 0x5FbDB2315678afecb367f032d93F642f64180aa3
+
 contract SmartLearnChain {
     // Event to emit when a fee payment is made
     event NewPayment(
